@@ -1,5 +1,6 @@
 1. linux
 2. python
+3. WEB
 a ._
 B _...
 C _._.
@@ -28,3 +29,6 @@ Y
 Z .._ _
 Radek je gay
 a malej. ..
+
+Marcus
+Conor
