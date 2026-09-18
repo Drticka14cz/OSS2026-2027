@@ -1,7 +1,7 @@
 1. linux
 2. python
 3. WEB
-a ._
+A ._
 B _...
 C _._.
 D
@@ -27,10 +27,5 @@ V
 X
 Y
 Z .._ _
-Radek je gay
-a malej. ..
-Marcus
-Conor
-a malej.
-neumí nic, hlavně lezení
+Kuba si stěžuje že ma hlad ale nechce jíst zdravé jídlo
 
